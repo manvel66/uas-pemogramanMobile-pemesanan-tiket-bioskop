@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608927972368",
+    "project_id": "allah-f837f",
+    "storage_bucket": "allah-f837f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608927972368:android:8b0c8ec9cd22ca9113de95",
+        "android_client_info": {
+          "package_name": "com.rohmanbeny.mov"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJPAIpnWRGCKQXrD2MLyolchz2VH4dc2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
